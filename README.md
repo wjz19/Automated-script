@@ -6,7 +6,5 @@
 
 \- 项目背景：Linux 操作系统应用综合实践实训项目
 
-\- 功能：Shell/Python 脚本，实现 SSH、MySQL、FTP 批量获取服务器数据
-
-
+\- 功能：Shell/Python 脚本，实现 SSH、MySQL、FTP 批量获取服务器文件
 
